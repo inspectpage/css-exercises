@@ -31,25 +31,9 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
-}
-
-.text-image{
-  width: 250px;
-}
-
-
-
-
-/* .container{
-  display: flex;
-  justify-content: center;
   flex-wrap: wrap;
 }
 
 .text-image{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  flex: 1 1 200px;
-  margin: 52px;
-} */
+  width: 200px;
+}
