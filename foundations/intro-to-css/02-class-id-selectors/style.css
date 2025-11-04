@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd{
+    background-color: rgb(253, 142, 142);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#unique{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd .cooler{
+    font-size: 24px;
+}
+
+#different{
+    background-color: rgb(190, 253, 190);
+    font-size: 24px;
+    font-weight: bold;
+}
